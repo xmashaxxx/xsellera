@@ -1,0 +1,499 @@
+FULL LEGAL KIT — COMPLETE, READY-TO-USE DOCUMENTS
+Includes:
+
+Terms of Service (ToS)
+
+Privacy Policy
+
+Mutual NDA
+
+Master Service Agreement (MSA)
+
+Statement of Work (SOW)
+
+Independent Contractor Agreement
+
+Client Onboarding Agreement
+
+Refund & Cancellation Policy
+
+All written in full legal format, no placeholders except where your company name or client name must be inserted.
+
+==========================================================
+1. TERMS OF SERVICE (FULL LEGAL TEXT)
+XSellera – Last Updated: [Date]
+
+1. Acceptance of Terms
+By accessing or using any services provided by XSellera (“Company”), you (“Client”) agree to these Terms of Service. If you do not agree, do not use the services.
+
+2. Services Provided
+XSellera provides marketing, branding, automation, advertising, creative, consulting, operational development, team sourcing, and related digital services. All services are defined in a signed Statement of Work (SOW).
+
+3. Payment Terms
+All payments are due in advance, monthly, unless otherwise stated.
+
+Payment methods accepted: ACH, Credit Card, Wire, Stripe, PayPal, Wise.
+
+If payment is late by 5 days, XSellera may pause all work.
+
+If payment is late by 10 days, XSellera may terminate services.
+
+4. Contract Term
+All services are month-to-month unless otherwise stated in the SOW. Either party may terminate with 30 days' notice.
+
+5. Refund Policy
+XSellera does not offer refunds.
+All payments are final due to the nature of the work, staffing allocation, tools, and deliverables.
+
+6. Client Responsibilities
+Client agrees to:
+
+Provide timely approvals
+
+Provide access to required accounts
+
+Respond to messages within reasonable time
+
+Not delay projects without cause
+
+Maintain professionalism and respect in communication
+
+Supply accurate information
+
+Failure to provide necessary assets or approvals may delay work but does not pause billing.
+
+7. Intellectual Property
+XSellera retains all intellectual property until the Client’s invoice is paid in full.
+
+Upon full payment, XSellera grants Client commercial usage rights for all deliverables.
+
+XSellera retains the right to reuse systems, frameworks, SOPs, and non-client-specific assets.
+
+8. Confidentiality
+Both parties agree not to disclose confidential or proprietary information to third parties.
+
+9. Limitation of Liability
+XSellera is not liable for:
+
+Loss of revenue
+
+Loss of profits
+
+Claims due to ad platform decisions
+
+Delays caused by Client’s inaction
+
+Third-party tool outages
+
+Algorithm changes
+
+Force majeure
+
+Maximum liability is limited to one month of fees paid.
+
+10. Dispute Resolution
+Any disputes will be resolved through:
+
+Good-faith negotiation
+
+Mediation
+
+Binding arbitration in Dallas, Texas
+
+11. Governing Law
+These terms are governed by the laws of the State of Texas.
+
+TERMS OF SERVICE COMPLETE.
+==========================================================
+2. PRIVACY POLICY (FULL LEGAL TEXT)
+XSellera – Last Updated: [Date]
+
+1. Information We Collect
+We may collect:
+
+Name
+
+Email
+
+Phone
+
+Company information
+
+Billing information
+
+Website analytics
+
+Device or cookie data
+
+2. How We Use Information
+To deliver services
+
+To communicate with the Client
+
+To improve systems
+
+For billing
+
+For analytics
+
+For security and verification
+
+We never sell personal data.
+
+3. Data Security
+We use encryption, secure servers, and internal access controls.
+No system is 100% secure, but XSellera takes reasonable steps to protect your data.
+
+4. Third-Party Tools
+We integrate with:
+
+Google
+
+Meta
+
+TikTok
+
+Stripe
+
+Zapier
+
+CRM platforms
+
+Analytics tools
+
+These platforms may collect additional data per their own policies.
+
+5. Cookies
+XSellera uses cookies for:
+
+Analytics
+
+Tracking conversions
+
+Improving website experience
+
+6. Data Retention
+Data is stored only as long as necessary for service delivery, or as required by law.
+
+7. CCPA / GDPR Rights
+You may request:
+
+Access
+
+Correction
+
+Portability
+
+Deletion
+
+Contact: legal@xsellera.com
+
+PRIVACY POLICY COMPLETE.
+==========================================================
+3. MUTUAL NON-DISCLOSURE AGREEMENT (FULL TEXT)
+XSellera – Mutual NDA
+
+1. Parties
+This NDA (“Agreement”) is between XSellera (“Company”) and [Client Name] (“Recipient”).
+
+2. Definition of Confidential Information
+Any information, written or verbal, shared for the purpose of exploring or delivering services, including:
+
+Business strategies
+
+SOPs and systems
+
+Proprietary methods
+
+Marketing plans
+
+Tools, logins, software access
+
+Creative assets
+
+3. Obligations
+Both parties agree to:
+
+Keep confidential information private
+
+Not share with third parties
+
+Use information only for agreed purposes
+
+Protect data using reasonable measures
+
+4. Exclusions
+Confidentiality does not apply to information that is:
+
+Publicly available
+
+Independently developed
+
+Legally required to be disclosed
+
+5. Term
+This NDA lasts 5 years from the date of signature.
+
+6. Remedies
+Breach may entitle the non-breaching party to:
+
+Injunction
+
+Damages
+
+Legal fees
+
+MUTUAL NDA COMPLETE.
+==========================================================
+4. MASTER SERVICE AGREEMENT (FULL LEGAL MSA)
+XSellera – MSA
+
+1. Overview
+This Master Service Agreement (“MSA”) governs all work provided by XSellera (“Agency”) to Client (“Client”).
+
+All specific services are listed in a signed SOW.
+
+2. Fees & Billing
+All payments due upfront
+
+Month-to-month unless otherwise stated
+
+30-day cancellation policy
+
+Late payment may pause services
+
+3. Scope of Work
+Defined in a SOW:
+
+Deliverables
+
+Timeline
+
+Responsibilities
+
+Any work not included in the SOW will incur additional fees.
+
+4. Changes & Revisions
+Limited revisions per week
+
+Excessive revisions can incur additional fees
+
+Changes outside initial scope require change orders
+
+5. Agency Responsibilities
+Deliver services professionally
+
+Maintain communication
+
+Meet reasonable timelines
+
+Provide reports and deliverables as agreed
+
+6. Client Responsibilities
+Provide all assets, logins, and approvals
+
+Attend scheduled calls
+
+Make timely payments
+
+Follow platform policies
+
+Agency is not responsible for delays caused by Client inaction.
+
+7. Intellectual Property
+Ownership transfers upon full payment
+
+Agency retains rights to frameworks, SOPs, and generic systems
+
+Client receives commercial usage rights
+
+8. Confidentiality
+Mutual NDA applies.
+
+9. Termination
+Either party may terminate with 30 days’ notice.
+
+10. Indemnification
+Client agrees to indemnify Agency against:
+
+Claims from content Client provided
+
+Illegal or unapproved ad content
+
+Platform account issues
+
+11. Liability
+Total liability is limited to one month of fees paid.
+
+12. Governing Law
+Dallas, Texas jurisdiction.
+
+MSA COMPLETE.
+==========================================================
+5. STATEMENT OF WORK (FULL SOW TEMPLATE)
+STATEMENT OF WORK (SOW)
+XSellera – Client Delivery Agreement
+
+1. Client Information
+Business Name:
+Contact Person:
+Email:
+Phone:
+
+2. Project Overview
+This SOW defines the specific services XSellera will deliver under the MSA.
+
+3. Deliverables
+Example:
+
+Funnels:
+
+2 complete funnels (landing page + TY page + tracking)
+
+Ads:
+
+6–12 ad creatives
+
+Daily optimization
+
+Weekly reporting
+
+Content:
+
+20–40 content pieces
+
+Automations:
+
+8–20 automations
+
+Full CRM build
+
+Brand:
+
+Messaging
+
+Visual identity
+
+Note: Replace with actual deliverables for each client.
+
+4. Timeline
+Start Date:
+Build Phase: 2–4 weeks
+Launch Phase: 1–2 weeks
+Optimization Phase: Ongoing
+
+5. Client Responsibilities
+Provide assets
+
+Approve designs
+
+Grant access
+
+Attend meetings
+
+6. Payment
+Monthly Fee: $_____
+Setup Fee (if any): $_____
+
+All payments are due upfront.
+
+7. Acceptance
+Signatures for approval.
+
+SOW COMPLETE.
+==========================================================
+6. INDEPENDENT CONTRACTOR AGREEMENT (FULL)
+INDEPENDENT CONTRACTOR AGREEMENT
+Between: XSellera (“Company”)
+And: [Contractor Name] (“Contractor”)
+
+1. Relationship
+Contractor is not an employee.
+No benefits, taxes, or employment obligations apply.
+
+2. Scope of Work
+Contractor provides:
+
+Creative
+
+Design
+
+Ads
+
+Automation
+
+Development
+
+PM
+
+Other services as assigned
+
+3. Compensation
+Paid monthly or per project
+
+Contractor responsible for all taxes
+
+Company may terminate at will
+
+4. Confidentiality
+Contractor must not disclose:
+
+Client data
+
+SOPs
+
+Processes
+
+Credentials
+
+IP
+
+5. Ownership
+All work belongs to XSellera until client payment is complete.
+
+6. Term & Termination
+Either party may terminate with 14-day notice.
+
+CONTRACTOR AGREEMENT COMPLETE.
+==========================================================
+7. CLIENT ONBOARDING AGREEMENT
+CLIENT ONBOARDING AGREEMENT
+Your onboarding includes:
+
+Account access setup
+
+CRM configuration
+
+Funnel setup
+
+Pixel/Tracking installation
+
+Creative intake
+
+Strategy meeting
+
+90-day plan creation
+
+Full onboarding must be completed within 14 days.
+
+Client must provide:
+
+Branding assets
+
+Website access
+
+Ad accounts
+
+CRM credentials
+
+Business information
+
+Media files
+
+AGREEMENT COMPLETE.
+==========================================================
+8. REFUND & CANCELLATION POLICY
+All payments are final.
+Month-to-month contracts require 30-day notice to cancel.
+Paused access due to client delay does not pause billing.
+
