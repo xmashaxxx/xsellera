@@ -1,12 +1,12 @@
-# Xtatic Digital — Agency Website
+# XSELLERA Digital — Agency Website
 
-Business website for **Xtatic Digital**, a web development and digital marketing agency serving local businesses. Built in partnership with my co-founder.
+Business website for **Xsellera Digital**, a web development and digital marketing agency serving local businesses. Built in partnership with my co-founder.
 
 **Live:** [xmashaxxx.github.io/xsellera](https://xmashaxxx.github.io/xsellera/)
 
-## About Xtatic Digital
+## About XSELLERA
 
-Xtatic Digital builds websites and digital marketing solutions for local businesses — particularly service businesses (auto repair, healthcare, hospitality) that need an effective online presence but don't have the bandwidth to build or maintain one themselves.
+Xsellera builds websites and digital marketing solutions for local businesses — particularly service businesses (auto repair, healthcare, hospitality) that need an effective online presence but don't have the bandwidth to build or maintain one themselves.
 
 The agency is actively taking on clients. The BMW Service Miami sale ([bmwrepairshop.net](http://bmwrepairshop.net/)) was our first commercial project — a $1,000 website delivery that validated the model before scaling.
 
